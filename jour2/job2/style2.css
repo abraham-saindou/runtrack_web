@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+nav{
+    margin-top: 2%;
+    text-align: center;
+}
+
+#voltaire{
+    background-color: antiquewhite;
+    font-family: sans-serif;
+    font-size: medium;
+    border-radius: 5px;
+    text-align: center;
+}
+
+#voltaire:hover{
+    background-color: gold;
+}
+.lor{
+
+    margin: 2% 13% 4% 13%;
+    padding-left: initial;
+    background-size: 500px;
+    background-color: cadetblue;
+    text-align: center;
+}

@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.box_content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.box1,.box2,.box3{
+    width: 300px;
+    height: 200px;
+    border-radius: 4px;
+    margin-top: 2%;
+    background-color: bisque;
+
+}
